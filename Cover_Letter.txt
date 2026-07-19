@@ -1,0 +1,29 @@
+Dear Editor,
+
+We are pleased to submit our manuscript entitled "Systematic Mendelian Randomization Analysis of Environmental Exposures and Chronic Diseases: Evidence from Univariate MR, Multivariable MR, Mediation MR, and Colocalization" for consideration as an Original Article in the European Journal of Epidemiology.
+
+Environmental exposures—including smoking, alcohol, coffee, diet, and air pollution—are major modifiable risk factors for chronic diseases, but observational evidence is limited by confounding and reverse causation. We conducted a systematic Mendelian randomization (MR) study evaluating 8 environmental exposures across 8 chronic diseases (48 exposure–outcome pairs), using a comprehensive multi-layered framework:
+
+1. **Univariate MR** (IVW, MR-Egger, weighted median, weighted mode) identified 14 significant causal associations, with smoking showing robust effects on 6 diseases (COPD OR=1.93, lung cancer OR=1.59, CAD OR=1.29, among others).
+
+2. **Multivariable MR** confirmed that smoking's effects are independent of alcohol consumption for CAD, lung cancer, T2D, and heart failure.
+
+3. **Three-step mediation MR** using eQTLGen blood eQTL identified 10 significant gene expression pathways (smoking → expression → disease), validated in GTEx v8 lung and whole blood tissues, revealing striking tissue-specific eQTL patterns (4/6 genes were eGenes in lung tissue).
+
+4. **Colocalization analysis** (coloc.abf) at ±150 kb and ±50 kb windows provided insights into the genetic architecture of these associations.
+
+5. **Comprehensive sensitivity analyses** included F-statistics (all >29.7), Steiger directionality, leave-one-out (10/14 stable), MR-PRESSO, heterogeneity, and MR-Egger intercept.
+
+We believe this work is well-suited for the European Journal of Epidemiology for several reasons. First, the systematic multi-exposure, multi-outcome design with MVMR, mediation MR, and colocalization represents a comprehensive methodological approach that aligns with the journal's emphasis on rigorous epidemiological methods. Second, the GTEx multi-tissue validation of mediation genes provides biological mechanistic insights rarely available in MR studies. Third, we transparently report and discuss the limitations of our findings—including Steiger directionality test results and negative colocalization—providing a nuanced and honest assessment that we believe will be of methodological interest to the journal's readership.
+
+All authors have read and approved the final manuscript. This work has not been published previously and is not under consideration for publication elsewhere. We have no conflicts of interest to declare. All data used are publicly available (IEU OpenGWAS, eQTLGen, GTEx v8), and analysis code is provided as supplementary material.
+
+We thank you for your consideration and look forward to your response.
+
+Sincerely,
+
+Yanjin Wu
+Southern University of Science and Technology
+Shenzhen, China
+Email: 15361467149@163.com
+ORCID: [0000-0000-0000-0000]

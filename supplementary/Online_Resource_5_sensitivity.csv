@@ -1,0 +1,15 @@
+exposure_label,outcome_label,n_snps,ivw_beta,ivw_p,ivw_or,min_F,steiger,Q,Q_p,het_significant,egger_intercept,egger_p,egger_suggests_pleiotropy,presso_global_p,presso_outlier,presso_significant
+吸烟起始,慢阻肺,85,0.6588,7.6e-24,1.933,42.1,reversed,118.3,0.00663,TRUE,-0.0073,0.395,FALSE,0.011,TRUE,TRUE
+吸烟起始,冠心病,86,0.2518,5.34e-07,1.286,42,reversed,108.85,0.0355,TRUE,0.0028,0.677,FALSE,0.044,TRUE,TRUE
+吸烟起始,心力衰竭,73,0.2425,5.74e-07,1.274,41.5,reversed,104.3,0.00617,TRUE,0.0026,0.681,FALSE,0.011,TRUE,TRUE
+吸烟起始,肺癌,84,0.461,5.94e-07,1.586,42.2,correct,98.95,0.098,FALSE,0.0039,0.752,FALSE,0.119,FALSE,FALSE
+吸烟起始,2型糖尿病,78,0.2678,1.1e-05,1.307,42.2,reversed,195.45,1.79e-12,TRUE,0.0045,0.577,FALSE,,TRUE,
+饮酒频率,慢阻肺,97,0.2531,0.000709,1.288,53.1,reversed,209.25,1.41e-10,TRUE,0.0039,0.303,FALSE,,TRUE,
+咖啡摄入,冠心病,37,0.4891,0.0011,1.631,75.5,reversed,60.88,0.00431,TRUE,-6e-04,0.911,FALSE,0.006,TRUE,TRUE
+饮酒频率,心力衰竭,90,0.1747,0.00131,1.191,53.9,reversed,164.12,1.58e-06,TRUE,0.0078,0.0148,TRUE,,TRUE,
+咖啡摄入,2型糖尿病,31,1.2035,0.00147,3.332,62.8,reversed,357.09,3.37e-58,TRUE,-0.0068,0.616,FALSE,,TRUE,
+吸烟起始,缺血性脑卒中,85,0.1455,0.00177,1.157,42.1,reversed,98.14,0.123,FALSE,-0.0025,0.683,FALSE,0.139,FALSE,FALSE
+NO2空气污染,缺血性脑卒中,8,0.7421,0.013,2.1,37.8,reversed,7.59,0.27,FALSE,0.0116,0.706,FALSE,0.432,FALSE,FALSE
+饮酒频率,2型糖尿病,78,0.2453,0.0444,1.278,46.6,reversed,550.48,4.56e-73,TRUE,0.0336,0.000693,TRUE,,TRUE,
+新鲜水果摄入,心力衰竭,48,0.3578,0.046,1.43,46.1,reversed,71.96,0.00853,TRUE,0.0125,0.0343,TRUE,0.003,TRUE,TRUE
+NO2空气污染,冠心病,8,-1.0901,0.0499,0.336,37.8,reversed,21.74,0.00135,TRUE,0.0393,0.414,FALSE,0.002,TRUE,TRUE

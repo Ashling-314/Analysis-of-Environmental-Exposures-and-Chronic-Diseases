@@ -1,0 +1,19 @@
+gene,tissue,found,is_egenie,qval,n_eqtls,lead_variant,lead_p,lead_beta,lead_maf,eqtlgen_beta_step1,gtex_direction,mediation_outcomes
+GDF11,Lung,True,False,2.92e-01,0,,,,,2.3838,,LungCancer; COPD
+CLU,Lung,True,False,1.27e-01,0,,,,,-1.5362,,COPD
+HNF1A,Lung,False,False,,0,,,,,,,
+MYL6B,Lung,True,True,6.42e-07,96,chr12_56221571_C_T_b38,9.85e-11,-0.7718,0.0165,4.8853,negative,CAD
+HDGFRP2,Lung,False,False,,0,,,,,,,
+ZNF655,Lung,True,True,4.52e-02,3,chr7_99117091_T_TG_b38,6.39e-05,-0.4220,0.0165,3.0846,negative,COPD
+FAM195A,Lung,False,False,,0,,,,,,,
+NDUFAF2,Lung,True,True,3.00e-02,89,chr5_60518123_T_A_b38,3.63e-05,-0.2810,0.0282,3.7555,negative,COPD
+RP5-1115A15.1,Lung,True,True,1.39e-09,288,chr1_8437247_T_A_b38,5.04e-14,0.3527,0.3932,-8.0611,positive,COPD
+GDF11,Whole_Blood,True,True,3.33e-02,12,chr12_54912034_C_T_b38,4.10e-05,0.3075,0.0172,2.3838,positive,LungCancer; COPD
+CLU,Whole_Blood,True,True,4.59e-02,23,chr8_27490106_G_T_b38,4.05e-05,0.4212,0.0104,-1.5362,positive,COPD
+HNF1A,Whole_Blood,False,False,,0,,,,,,,
+MYL6B,Whole_Blood,True,True,7.76e-07,61,chr12_56221571_C_T_b38,1.68e-10,-0.6760,0.0142,4.8853,negative,CAD
+HDGFRP2,Whole_Blood,False,False,,0,,,,,,,
+ZNF655,Whole_Blood,True,False,7.11e-02,0,,,,,3.0846,,COPD
+FAM195A,Whole_Blood,False,False,,0,,,,,,,
+NDUFAF2,Whole_Blood,True,False,1.15e-01,0,,,,,3.7555,,COPD
+RP5-1115A15.1,Whole_Blood,True,True,8.02e-04,22,chr1_8429242_C_T_b38,2.91e-07,0.0964,0.4224,-8.0611,positive,COPD
