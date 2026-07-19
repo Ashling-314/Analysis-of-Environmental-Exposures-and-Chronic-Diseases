@@ -16,7 +16,7 @@ options(timeout = 120)          # 单次 HTTP 请求最多 120 秒
 # ---- 设置 JWT 令牌 ----
 jwt_token <- Sys.getenv("OPENGWAS_JWT")
 if (!nzchar(jwt_token)) {
-  renviron_file <- "C:/Users/WuYan/Documents/.Renviron"
+  renviron_file <- "C:/Users/[username]/Documents/.Renviron"
   if (file.exists(renviron_file)) {
     rl <- readLines(renviron_file, warn = FALSE)
     jl <- grep("^OPENGWAS_JWT=", rl, value = TRUE)
@@ -51,7 +51,7 @@ log("时间:", format(Sys.time()))
 log("JWT length:", nchar(jwt_token))
 
 # ---- 加载 1000G .bim ----
-bim_file <- "D:/kindle_ideas/kindle_ideas/idea15_线粒体DNA异质性/data/ref/1000G_EUR/EUR.bim"
+bim_file <- "<path_to_1000G_reference>/data/ref/1000G_EUR/EUR.bim"
 log("加载 1000G .bim...")
 bim <- fread(bim_file, header = FALSE)
 setnames(bim, c("chr", "rsid", "cm", "pos", "a1", "a2"))

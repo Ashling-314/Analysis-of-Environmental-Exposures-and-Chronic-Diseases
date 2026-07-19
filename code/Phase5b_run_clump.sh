@@ -4,8 +4,8 @@
 
 set -e
 
-PLINK="D:/kindle_ideas/kindle_ideas/idea15_线粒体DNA异质性/tools/plink.exe"
-BFILE="D:/kindle_ideas/kindle_ideas/idea15_线粒体DNA异质性/data/ref/1000G_EUR/EUR"
+PLINK="<path_to_1000G_reference>/tools/plink.exe"
+BFILE="<path_to_1000G_reference>/data/ref/1000G_EUR/EUR"
 INPUT_DIR="data/clump_inputs"
 OUTPUT_DIR="data/clump_outputs"
 

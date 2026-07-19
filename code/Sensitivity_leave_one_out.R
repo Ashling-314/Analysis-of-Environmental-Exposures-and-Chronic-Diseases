@@ -7,7 +7,7 @@ suppressMessages(suppressWarnings({
 
 jwt_token <- Sys.getenv("OPENGWAS_JWT")
 if (!nzchar(jwt_token)) {
-  rl <- readLines("C:/Users/WuYan/Documents/.Renviron", warn = FALSE)
+  rl <- readLines("C:/Users/[username]/Documents/.Renviron", warn = FALSE)
   jl <- grep("^OPENGWAS_JWT=", rl, value = TRUE)
   jwt_token <- sub("^OPENGWAS_JWT=", "", jl[1])
 }
