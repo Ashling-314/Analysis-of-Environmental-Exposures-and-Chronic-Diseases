@@ -1,0 +1,39 @@
+Personal Keywords for Environmental Research Submission
+========================================================
+Author: Yanjin Wu
+Southern University of Science and Technology
+Email: 15361467149@163.com
+
+Manuscript: Systematic Mendelian Randomization Analysis of Environmental
+Exposures and Chronic Diseases
+
+--------------------------------------------------------
+Recommended Personal Keywords (for Elsevier submission system)
+--------------------------------------------------------
+
+1. Mendelian randomization
+2. Genetic epidemiology
+3. Environmental health
+4. Causal inference
+5. Gene-environment interaction
+6. Smoking
+7. Air pollution
+8. Cardiovascular disease
+9. Mediation analysis
+10. Colocalization
+
+--------------------------------------------------------
+Elsevier Subject Classification
+--------------------------------------------------------
+
+Primary section: Environmental Epidemiology and Human Health
+
+--------------------------------------------------------
+Notes
+--------------------------------------------------------
+- Elsevier submission systems typically ask for 3-6 keywords
+- Select from the list above based on what the submission form offers
+- If the system provides a dropdown, choose the closest match
+- These keywords are used for reviewer assignment, so accuracy matters
+- The manuscript already lists 6 author keywords in the abstract;
+  personal keywords can overlap but should also reflect broader expertise
